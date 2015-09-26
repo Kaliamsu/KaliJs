@@ -1,0 +1,26 @@
+{
+  "name": "kali-js",
+  "version": "0.0.1",
+  "author": "Kaliamsu <kkaliamsu@gmail.com>",
+  "description": "A personnal framework with CoffeeScript using Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaliamsu/KaliJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kaliamsu/KaliJs/issues"
+  },
+  "homepage": "https://github.com/Kaliamsu/KaliJs#readme",
+  "dependencies": {
+    "winston": "~1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "license": "MIT"
+}
